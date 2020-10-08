@@ -51,6 +51,7 @@ module.exports = {
             description: `An app that allows you to view upcoming food events.`,
             background_color: `#01579b`,
             theme_color: `#ffffff`,
+            start_url: `../`,
             fingerprints: false,
             inject: false,
             icons: [{
